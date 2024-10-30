@@ -2,14 +2,20 @@
 A small adventure in putting data into places...
 
 
+For some years I had the priveildge to work with a very clever CFO, who taught me about reporting.
+
+
+One piece of wisdom he shared with me was "What numbers we follow is what number we change - be careful you don't follow the wrong numbers".
+
+
 Considering data presentation, data accuracy, what data is relevant to who and how can it be consumed...
 
 Can we communicate relvant data, to relevant the relevant people, at low time/financial cost?
 
-Eink can update in less than one minute, but if our data is relevant for one week is that overkill?
+Eink can update in less than one minute, but if our data is refreshes one a week - is that overkill?
 
-Does reporting have to be hard? Can I deliver at low cost, with low time, consistantly?
+Does reporting have to be hard? Can I deliver at low cost, with low time, high accruacy and consistantly?
 
-10 week implementation of putting a piece of paper in a communcal space.
+This is a 10 week implementation of putting a piece of paper in a communcal space.
 
 https://docs.google.com/spreadsheets/d/1uJXU8TIED6snBoq_WPOulwVZohVVlfoDsshrs5_-fz4/edit?usp=sharing
