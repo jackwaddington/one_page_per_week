@@ -2,9 +2,9 @@
 A small adventure in putting data into places...
 
 
-For richest Hive event experience, subscribe to this most excellent calendar maintained by Pablo <git link>
+For richest Hive event experience, subscribe to this most excellent calendar maintained by Pablo >git link<
 
-<calendar URL>
+===calendar URL====
 
 
 For some years I had the priveildge to work with a very clever CFO, who taught me about reporting.
