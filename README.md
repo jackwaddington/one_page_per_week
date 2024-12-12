@@ -1,4 +1,4 @@
-# weekly_reporting
+# One Page Per Week
 ## A small adventure in putting data into places...
 
 -------
