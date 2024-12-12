@@ -3,9 +3,13 @@
 
 -------
 
-Data is everywhere and easy to make, but often locked up behind digital gates. Considering data presentation, accuracy, relevancy, to whom and how...
+Data is everywhere and easy to make, but often locked up behind the digital gates.
+
+Considering data presentation, accuracy, relevancy, to whom and in what way...
 
 Can we communicate relvant data, to relevant the relevant people, at low time/financial cost?
+
+Of course we can!
 
 -------
 
